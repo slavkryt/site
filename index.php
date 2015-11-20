@@ -116,6 +116,5 @@ foreach($ogg as $int){
 }
 
 ?>
-<p>Новое изменение</p>
 </body>
 </html>
